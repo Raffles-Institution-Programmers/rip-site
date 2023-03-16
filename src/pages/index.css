@@ -1,0 +1,6 @@
+@import url('/fonts/stylesheet.css');
+
+h1 {
+  font-family: 'JetBrainsMono Nerd Font';
+  font-weight: bold;
+}
